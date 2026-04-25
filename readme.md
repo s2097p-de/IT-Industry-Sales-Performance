@@ -380,9 +380,9 @@ The full **documentary PDF report** is included in this repository. It contains:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Santanu%20Pathak-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/santanu-pathak)
-[![GitHub](https://img.shields.io/badge/GitHub-santanu--pathak-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/santanu-pathak)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:santanu@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Santanu%20Pathak-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/santanu-pathak-3640672a5)
+[![GitHub](https://img.shields.io/badge/GitHub-santanu--pathak-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/s2097p-de)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:s2097p@gmail.com)
 
 </div>
 
