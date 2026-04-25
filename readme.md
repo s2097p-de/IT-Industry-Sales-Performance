@@ -372,7 +372,7 @@ The full **documentary PDF report** is included in this repository. It contains:
 - 📖 Chapter-by-chapter storytelling narrative
 - 🧠 Business insight annotations
 
-> **[📥 Download Documentary Report](./IT_Sales_SQL_Documentary_Report.pdf)**
+> **[📥 Download Documentary Report](https://github.com/s2097p-de/IT-Industry-Sales-Performance/blob/main/IT_Sales_SQL_Documentary_Report%20.pdf)**
 
 ---
 
